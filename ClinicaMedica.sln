@@ -13,8 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{02EA681E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaMedica.Servicos", "ClinicaMedica.Services\ClinicaMedica.Servicos.csproj", "{95C28D34-9743-9A7E-17D0-9367EE81718D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaMedica.App", "App\ClinicaMedica.App.csproj", "{C121B4F1-BC4B-4C66-B902-3B2ECFC97096}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaMedica.Resources", "ClinicaMedica.Resources\ClinicaMedica.Resources.csproj", "{D4948A1D-148E-48B0-AC2B-E0CF0DF6CCBC}"
 EndProject
 Global
@@ -39,10 +37,6 @@ Global
 		{95C28D34-9743-9A7E-17D0-9367EE81718D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95C28D34-9743-9A7E-17D0-9367EE81718D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95C28D34-9743-9A7E-17D0-9367EE81718D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C121B4F1-BC4B-4C66-B902-3B2ECFC97096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C121B4F1-BC4B-4C66-B902-3B2ECFC97096}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C121B4F1-BC4B-4C66-B902-3B2ECFC97096}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C121B4F1-BC4B-4C66-B902-3B2ECFC97096}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D4948A1D-148E-48B0-AC2B-E0CF0DF6CCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D4948A1D-148E-48B0-AC2B-E0CF0DF6CCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4948A1D-148E-48B0-AC2B-E0CF0DF6CCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
